@@ -1,1 +1,1 @@
-city :M
+city :bangalore
